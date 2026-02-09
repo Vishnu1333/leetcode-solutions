@@ -18,6 +18,7 @@
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Vishnu1333/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [1480-running-sum-of-1d-array](https://github.com/Vishnu1333/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Vishnu1333/leetcode-solutions/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -30,4 +31,9 @@
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Vishnu1333/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Vishnu1333/leetcode-solutions/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
+## Math
+|  |
+| ------- |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Vishnu1333/leetcode-solutions/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 <!---LeetCode Topics End-->
