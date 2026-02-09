@@ -16,6 +16,7 @@
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Vishnu1333/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0219-contains-duplicate-ii](https://github.com/Vishnu1333/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0704-binary-search](https://github.com/Vishnu1333/leetcode-solutions/tree/master/0704-binary-search) |
 | [1480-running-sum-of-1d-array](https://github.com/Vishnu1333/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
@@ -41,4 +42,12 @@
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/Vishnu1333/leetcode-solutions/tree/master/0704-binary-search) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Vishnu1333/leetcode-solutions/tree/master/0075-sort-colors) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Vishnu1333/leetcode-solutions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
