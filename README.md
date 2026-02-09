@@ -13,4 +13,16 @@
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Vishnu1333/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
+## Array
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/Vishnu1333/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
+## Hash Table
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/Vishnu1333/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/Vishnu1333/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
